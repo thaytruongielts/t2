@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Writing Task 2 Analyzer",
+  "description": "An AI-powered tool to help students prepare for the IELTS Writing Task 2. Input an essay prompt and receive a detailed analysis of the question type, a recommended essay structure, and relevant vocabulary.",
+  "requestFramePermissions": []
+}
